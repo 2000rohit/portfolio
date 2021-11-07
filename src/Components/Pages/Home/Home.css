@@ -1,0 +1,18 @@
+.content {
+  height: 90vh;
+  width: 100%;
+  z-index: 2;
+  position: absolute;
+  /* background-color: orange; */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.content h1 {
+  font-size: 5rem !important;
+}
+.content .content-text {
+  width: 30%;
+  /* background-color: blue; */
+}
